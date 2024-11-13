@@ -24,7 +24,7 @@ This project is a RESTful API built with Spring Boot to manage a movie database 
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/marcusvramos/movie-manager.git
+git clone git@github.com:marcusvramos/list-movies-mongodb.git
 ```
 
 
